@@ -1,0 +1,144 @@
+{
+  "home": {
+    "className": "Tên của lớp học"
+  },
+  "student": {
+    "class": {
+      "classwork": {
+        "cancelButton": "Hủy",
+        "desc": "Hiển thị tất cả các dự án của bạn, nơi bạn có thể gửi và kiểm tra trạng thái của dự án.",
+        "selectProject": "Lựa dự án của bạn",
+        "title": "Bài tập trên lớp",
+        "turnInButton": "Nộp bài "
+      },
+      "classworkList": {
+        "dueDate": "NGÀY HẾT HẠN",
+        "options": "TÙY CHỌN",
+        "status": "TRẠNG THÁI",
+        "submissionTime": "THỜI GIAN NỘP BÀI",
+        "title": "TIÊU ĐỀ",
+        "workLink": "LINK BÀI"
+      },
+      "invitation": {
+        "joinButton": "THAM GIA",
+        "tips": "Bạn sẽ tham gia lớp học bằng tài khoản hiện tại."
+      },
+      "materials": {
+        "title": "Nguyên vật liệu"
+      }
+    },
+    "projectDetail": {
+      "submitTitle": "Nộp dự án của bạn cho "
+    },
+    "turnIn": {
+      "card": {
+        "assignment": "Bài tập",
+        "classroom": "Lớp học Cocrea",
+        "classroomList": "Lớp học của tôi",
+        "title": "Nộp dự án của bạn cho:"
+      },
+      "form": {
+        "myWork": "Dự án của tôi",
+        "title": "Nộp dự án của bạn"
+      }
+    }
+  },
+  "teacher": {
+    "class": {
+      "assignment": {
+        "addNew": "Tạo mới",
+        "create": {
+          "dueDate": "Ngày đến hạn",
+          "instruction": "Hướng dẫn",
+          "name": "Tạo bài tập",
+          "title": "Tạo tiêu đề"
+        },
+        "desc": "Danh sách này hiển thị tất cả các bài tập bạn đã tạo cho học sinh. Bạn cũng có thể giao bài tập mới cho học sinh. Cần thêm trợ giúp? <a href=\"https://scratch.st/zncr3D\" target=\"_blank\">Tham gia nhóm trên Facebook!</a>",
+        "listCompleted": "XONG",
+        "listDue": "NGÀY HẾT HẠN",
+        "listOptions": "TÙY CHỌN",
+        "listStatus": "TRẠNG THÁI",
+        "listTitle": "TIÊU ĐỀ",
+        "title": "Các bài tập",
+        "turnedIn": "Đã nộp",
+        "unsubmitted": "Chưa nộp"
+      },
+      "assignmentSummary": {
+        "assigned": "Đã giao",
+        "listId": "ID",
+        "listTeamMembers": "THÀNH VIÊN NHÓM",
+        "listTime": "THỜI GIAN NỘP BÀI",
+        "listWorkLink": "LINK BÀI",
+        "turnedIn": "Đã nộp",
+        "unsubmit": "Chưa nộp"
+      },
+      "card": {
+        "operation": {
+          "delete": "Loại bỏ",
+          "edit": "Chỉnh sửa",
+          "more": "Thêm"
+        },
+        "studentcount": "Các học sinh"
+      },
+      "courseCard": {
+        "addButton": "Thêm vô lớp học",
+        "deleteButton": "Xóa khỏi lớp học",
+        "menuTitle": "Không có lớp học",
+        "usedCount": "Đã sử dụng",
+        "viewButton": "Xem"
+      },
+      "create": {
+        "title": "Tạo lớp học"
+      },
+      "createAssignment": {
+        "latePermitted": "Được phép nộp muộn"
+      },
+      "createButton": "Hủy",
+      "createName": "Tên lớp (Bắt buộc)",
+      "createSubject": "Chủ đề (Bắt buộc)",
+      "deleteAssignment": {
+        "desc": "Không thể hoàn tác hành động này và nó sẽ bị xóa khỏi lớp học của bạn.",
+        "tips": "Bạn có muốn xóa bài tập này không?"
+      },
+      "deleteClassroom": {
+        "desc": "Không thể hoàn tác hành động này và nó sẽ bị xóa khỏi lớp học của bạn.",
+        "tips": "Bạn có muốn xóa lớp học này không?"
+      },
+      "deleteStudent": {
+        "desc": "Không thể hoàn tác hành động này và nó sẽ bị xóa khỏi lớp học của bạn.",
+        "tips": "Bạn có muốn xóa học sinh này không?"
+      },
+      "reources": {
+        "title": "Tài nguyên"
+      },
+      "student": {
+        "copyLInk": "SAO CHÉP LINK",
+        "count": "Số lượng học sinh",
+        "desc": "Danh sách này hiển thị học sinh của tất cả các lớp.",
+        "desc01": "Hiển thị danh sách học sinh lớp và mời học sinh mới tham gia lớp. Nếu bạn cần cách khác để mời học sinh, vui lòng tham gia <a href=\"https://scratch.st/0FtQNz\" target=\"_blank\">Nhóm Facebook</a> và cho chúng tôi biết.",
+        "invite": "Mời học sinh",
+        "inviteLink": "Link mời"
+      },
+      "studentList": {
+        "class": "LỚP HỌC",
+        "email": "EMAIL",
+        "name": "TÊN",
+        "options": "TÙY CHỌN"
+      },
+      "updateAssignment": {
+        "title": "Cập Nhật Bài Tập"
+      },
+      "updateClass": {
+        "title": "Cập Nhật Lớp Học"
+      }
+    },
+    "home": {
+      "addNewClasses": "Thêm lớp mới",
+      "allClasses": "Tất cả các lớp",
+      "classes": "Các lớp học",
+      "myClasses": "Lớp học của tui",
+      "settings": "Cài đặt",
+      "students": "Học sinh"
+    }
+  }
+}
