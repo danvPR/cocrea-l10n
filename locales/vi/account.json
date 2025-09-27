@@ -1,1 +1,112 @@
-
+{
+  "connect": {
+    "connect": "Kết nối",
+    "connected": "Đã kết nối",
+    "disconnect": "Hủy kết nối",
+    "disconnectConfirm": "Bạn có chắc là muốn hủy kết nối không?",
+    "join": "Tham Gia Discord Của Chúng Mình!",
+    "title": "DỊCH VỤ KẾT NỐI"
+  },
+  "deleteRequest": {
+    "tips": "Hãy lưu ý rằng việc xóa tài khoản của bạn là không thể hoàn tác. Sau khi tài khoản bị xóa, tất cả dữ liệu của bạn, bao gồm thông tin hồ sơ và dự án sẽ bị xóa VĨNH VIỄN khỏi hệ thống của chúng mình.",
+    "title": "XÓA TÀI KHOẢN"
+  },
+  "deleteRequestConfirm": {
+    "tips": "Tài khoản của bạn sẽ bị xóa vĩnh viễn sau 30 ngày.\nNếu bạn đổi ý và muốn giữ lại tài khoản, vui lòng đăng nhập trong vòng 30 ngày để hủy quá trình xóa. Sau 30 ngày, tài khoản của bạn sẽ bị xóa vĩnh viễn và không thể khôi phục. Vui lòng sao lưu mọi dữ liệu liên quan trước.",
+    "title": "Bạn có chắc chắn muốn xóa tài khoản không?"
+  },
+  "deleteRequestRevert": {
+    "button": "HOÀN TÁC",
+    "time": "Thời gian xóa thực tế",
+    "tips": "Sau khi nộp đơn, bạn vẫn có thể truy cập Cocrea bình thường trong vòng 30 ngày và có thể hủy thao tác xóa bất kỳ lúc nào trong thời gian này. Sau 30 ngày, tài khoản sẽ bị xóa vĩnh viễn.",
+    "title": "HỦY KÍCH HOẠT TÀI KHOẢN"
+  },
+  "domain": {
+    "title": "TÊN MIỀN",
+    "URLdesc": "Tên người dùng được sử dụng trên URL tại trang của bạn"
+  },
+  "loginDetail": {
+    "changePassword": {
+      "desc": "Hãy nhập mật khẩu mới của bạn",
+      "easyGuess": "Vui lòng nhập mật khẩu từ 6-20 ký tự, bao gồm cả chữ cái và số.",
+      "inputConfirmPlaceholder": "Xác nhận mật khẩu mới",
+      "inputPlaceholder": "Mật khẩu mới",
+      "notSame": "Mật khẩu không khớp",
+      "title": "Cập Nhật Mật Khẩu",
+      "update": "Cập nhật mật khẩu"
+    },
+    "newEmail": {
+      "confirmButton": "Gởi email xác nhận",
+      "desc1": "Nhập địa chỉ email mới và chúng mình sẽ gởi cho bạn mã gồm 4 chữ số để xác nhận địa chỉ đó thuộc về bạn và giữ an toàn cho tài khoản của bạn.",
+      "desc2": "Địa chỉ email hiện tại của bạn là: {{email}}",
+      "inputPlaceholder": "Địa chỉ email mới của bạn",
+      "title": "Cập nhật địa chỉ email"
+    },
+    "title": "THIẾT LẬP ĐĂNG NHẬP",
+    "validationDialog": {
+      "desc": "Chúng mình đã gởi mã 4 chữ số đến {{email}}. Vui lòng nhập mã 4 chữ số này để bảo mật tài khoản của bạn.",
+      "title": "Xác Thực Email"
+    }
+  },
+  "other": {
+    "label": "Khác",
+    "language": {
+      "label": "Ngôn Ngữ"
+    }
+  },
+  "profile": {
+    "birthday": "Sinh Nhật",
+    "title": "TRANG CÁ NHÂN"
+  },
+  "welcomeCard": {
+    "desc": {
+      "answer1": "Người chơi",
+      "answer2": "Nhà sáng tạo/Scratcher",
+      "answer3": "Giáo viên",
+      "birthday": {
+        "tip": "Để bảo vệ trẻ vị thành niên, thông tin về độ tuổi sẽ được sử dụng để lọc ra các dự án không phù hợp cho trẻ em dưới 13 tuổi chơi.",
+        "title": "Ngày sinh nhật của bạn là gì?"
+      },
+      "Question": "Bạn sẽ mô tả bản thân mình như thế nào?"
+    },
+    "Done": "Đi thôi!",
+    "hearUs": {
+      "option1": "Youtube",
+      "option2": "Tìm kiếm Google",
+      "option3": "Scratch.mit.edu",
+      "option4": "Bạn bè hoặc gia đình",
+      "option5": "Thầy, cô giáo",
+      "option6": "Discord",
+      "option7": "Scratch game jam, Itch.io hoặc Gamejolt",
+      "option8": "Bài đăng trên MXH ",
+      "option9": "Khác",
+      "Question": "Bạn biết đến chúng tôi như thế nào?",
+      "title": "Chọn một"
+    },
+    "title": "Chào mừng đến với Cocrea! "
+  },
+  "signIn": {
+    "dialog": {
+      "confirmButton": "Tiếp tục",
+      "emailInputBox": "Email",
+      "emailTypeError": "Email bị sai.",
+      "otherSignIn": "Hoặc bạn có thể đăng nhập với",
+      "password": {
+        "back": "Đăng nhập với Email",
+        "Error": "Tên người dùng hoặc mật khẩu không đúng.",
+        "label": "Đăng nhập với mật khẩu",
+        "usernameInput": "Tên người dùng hoặc Email"
+      },
+      "privacy": "Bằng cách đăng nhập, tôi đồng ý",
+      "privacyPolicy": "Chính sách bảo mật",
+      "title": "Chào mừng đến với Cocrea! ",
+      "verifyEmail": {
+        "codeError": "Mã của bạn không đúng. Vui lòng thử lại.",
+        "des": "Chúng mình vừa gởi một mã gồm 4 chữ số đến <email></email>. Vui lòng kiểm tra hộp thư đến của bạn.",
+        "resend": "Gởi lại mã",
+        "resendTip": "Email đã được gởi!"
+      },
+      "warn": "Nên đăng nhập, nếu không dữ liệu dự án có thể bị mất."
+    }
+  }
+}
